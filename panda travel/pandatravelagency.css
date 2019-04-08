@@ -1,0 +1,41 @@
+/*
+/* Sarah Williams
+* Due Date 
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+    background-color: gainsboro; /* backgorund color is grey to match the blues */
+    width: 90%;
+    margin: auto;
+}
+h1, h2{color: lightskyblue;}/* these headings are light blue to match the theme */
+#aerialview {height: 500px;
+    width: 600px; /* size of picture */
+}
+
+figure {float: right;}/* image moves to right side */
+
+table, td, th { border: 1px solid blue; }/* border on table and color */
+
+table { border-collapse: collapse;}
+
+thead { background-color: skyblue; }/* background color on head of table */
+
+#boats {height: 500px;
+    width: 600px; /* size of picture */
+}
+
+#beach {height: 500px;
+    width: 600px; /* size of picture */
+}
+
+
